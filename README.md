@@ -1,3 +1,3 @@
-# my-first-repository
+# my-first-repositor
 
-whatevhskdfbgk'j;sjo;j
+Testing commands in terminal. 
