@@ -58,3 +58,6 @@ console.log(sum);
 | Dexter | Sheltie | 25          | $2500 | Jan 2022       |
 | Daisy  | Corgi   | 20          | $2000 | Dec 2021       |
 | Pack   | Poodle  | 50          | $2700 | March 2022     |
+
+
+Adding new stuff to make a commit on a separate branch! :)
